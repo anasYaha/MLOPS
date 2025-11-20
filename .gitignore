@@ -1,0 +1,34 @@
+# Données volumineuses
+*.json
+*.joblib
+*.pkl
+*.h5
+
+# Images générées
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Modèles entraînés
+*.joblib
+*.pkl
+*.model
